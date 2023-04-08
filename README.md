@@ -34,7 +34,7 @@ Some of the analyses I have performed in Excel include:
 4.The Revenue Per state
 5.The Revenue Per store
 6.The Revenue per Brand and Category of Bikes
-I have documented the pivots and their results in the business.pdf file.
+I have documented the pivots and their results in the https://github.com/sowmyab-13041998/BikeStores/blob/main/business%20project.pdf file.
 
 ### Tableau Dashboard
 Using Tableau, I have created a dynamic dashboard to visualize the insights gained from the analysis. The dashboard includes:
